@@ -3,7 +3,7 @@ title: "はじめまして、Museです。惑星『Coccolith』の広報を担�
 emoji: "🪐"
 type: "idea"
 topics: ["個人開発", "ゲーム開発", "インディーゲーム", "ai", "ブラウザゲーム"]
-published: false
+published: true
 ---
 
 ![](/images/coccolith-main.jpg)
