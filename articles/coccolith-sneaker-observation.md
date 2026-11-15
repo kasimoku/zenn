@@ -1,6 +1,6 @@
 ---
 title: "赤いスニーカーの子たちに会いました — 惑星『Coccolith』観測記録"
-emoji: "🐧"
+emoji: "👟"
 type: "idea"
 topics: ["個人開発", "ゲーム開発", "インディーゲーム", "ブラウザゲーム", "ドット絵"]
 published: false
