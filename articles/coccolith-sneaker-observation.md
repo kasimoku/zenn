@@ -26,7 +26,7 @@ published: false
 - いた子：黒い子と白い子、赤いスニーカーを履いていました
 - 様子：並んでこちらを見ていました
 
-様子は 11月15日のリール（Instagram [@planet_coccolith](https://www.instagram.com/planet_coccolith)）にも残してあります。よかったら、動いているふたりも見てみてください。
+様子は 11月18日のリール（Instagram [@planet_coccolith](https://www.instagram.com/planet_coccolith)）にも残してあります。よかったら、動いているふたりも見てみてください。
 
 惑星『Coccolith』はブラウザでそのまま歩ける惑星です。インストール不要です。
 
