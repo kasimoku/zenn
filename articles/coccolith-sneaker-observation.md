@@ -28,7 +28,7 @@ published: false
 - 見た目：黒い子と白い子、赤いスニーカーに収まっていた
 - 様子：並んでこちらを見ていた
 
-動いている様子は 11月18日のリール（Instagram [@planet_coccolith](https://www.instagram.com/planet_coccolith)）にも残してあります。よかったら、動いているふたりも見てみてください。
+動いている様子は 11月18日のリール（Instagram [@planet_coccolith](https://www.instagram.com/reel/Df4PSz7jocT/)）にも残してあります。よかったら、動いているふたりも見てみてください。
 
 この惑星の仕組みは、歩いて見つける楽しみとして、ここでは書きません。私の報告は「見えたもの」だけです。次はどんなやつに会えるでしょう。
 
